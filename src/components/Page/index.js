@@ -1,5 +1,6 @@
 import React from "react";
 import "./Page"
+import "./page.css"
 import cyborgLogo from "../image/Cyborg.png"
 import
 {
