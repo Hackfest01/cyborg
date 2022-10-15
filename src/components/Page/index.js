@@ -1,20 +1,11 @@
 import React from "react";
-import "./NavbarElement"
+import "./Page"
 import cyborgLogo from "../image/Cyborg.png"
 import
 {
-    Nav,
-    NavLink,
-    Bars,
-    NavMenu,
-    NavBtn,
-    NavBtnLink,
-    Frame,
-    Text1,
-    Text2,
-    Text3,
-    LightText, Paragraph1, Paragraph2
-} from "./NavbarElement";
+    Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink, Frame, Text1,
+    Text2, Text3, LightText, Paragraph1, Paragraph2, Paragraph3
+} from "./Page";
 
 const Index = () =>{
     return(
@@ -48,7 +39,11 @@ const Index = () =>{
             <LightText>
                 <Paragraph1>Make payments across the world Leveraging the</Paragraph1>
                 <Paragraph2>blockchain technology to</Paragraph2>
+                <Paragraph3 to={"/"}>Create Account</Paragraph3>
             </LightText>
+
+
+
         </>
 
     )

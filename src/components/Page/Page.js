@@ -54,7 +54,7 @@ export const NavMenu = styled.div`
 `
 
 export const NavBtn = styled.nav`
-    display: flex;
+  display: flex;
   align-items: center;
   margin-right: 24px;
   
@@ -73,29 +73,23 @@ export const NavBtnLink = styled(Link)`
   outline: none;
   cursor: pointer;
   text-decoration: none;
-  
-  &:hover{
-    transition: all 0.2s ease-in-out;
-    color: #010606;
-  }
 `
 
 export const Frame = styled.h1`
   color: #111111;
   font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 700;
+  font-weight: bolder;
   margin-top: 100px;
   font-size: 65.2878px;
   text-align: center
 `
 
 export const Text1 = styled.p`
-    margin-bottom: 20px;
+    margin-bottom: -10px;
 `
 
 export const Text2 = styled.p`
-    margin-bottom: 20px;
+    margin-bottom: -10px;
 `
 
 export const Text3 = styled.p`
@@ -113,11 +107,21 @@ export const LightText = styled.p`
 `
 
 export const Paragraph1 = styled.p`
-    margin-top: -10px;
+    margin-top: -30px;
 `
 
 export const Paragraph2 = styled.p`
   margin-top: -15px;
+  
+`
 
 
+
+export const Paragraph3 = styled.div`
+  margin-top: 20px;
+  background: #5AE4A8;
+  margin-right: 43%;
+  margin-left: 43%;
+  border-radius: 6px;
+  cursor: pointer;
 `
