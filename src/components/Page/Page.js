@@ -120,7 +120,6 @@ export const Paragraph3 = styled.div`
   background: #5AE4A8;
   margin-right: 43%;
   margin-left: 43%;
-  text-decoration: none;
   border-radius: 6px;
   cursor: pointer;
   
