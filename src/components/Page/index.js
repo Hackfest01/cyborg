@@ -39,7 +39,11 @@ const Index = () =>{
             <LightText>
                 <Paragraph1>Make payments across the world Leveraging the</Paragraph1>
                 <Paragraph2>blockchain technology to</Paragraph2>
-                <Paragraph3 to={"/"}>Create Account</Paragraph3>
+                <Paragraph3>
+                    <a href={""}>
+                        Create Account
+                    </a>
+                    </Paragraph3>
             </LightText>
 
 
