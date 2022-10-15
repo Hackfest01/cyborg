@@ -2,6 +2,7 @@ import React from "react";
 import "./Page"
 import "./page.css"
 import cyborgLogo from "../image/Cyborg.png"
+
 import
 {
     Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink, Frame, Text1,
@@ -28,7 +29,7 @@ const Index = () =>{
                     </NavLink>
                 </NavMenu>
                 <NavBtn>
-                    <NavBtnLink to={"/"}> Create Account</NavBtnLink>
+                    <NavBtnLink to={""}> Create Account</NavBtnLink>
                 </NavBtn>
             </Nav>
 
@@ -46,8 +47,6 @@ const Index = () =>{
                     </a>
                     </Paragraph3>
             </LightText>
-
-
 
         </>
 
