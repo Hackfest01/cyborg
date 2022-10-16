@@ -6,7 +6,7 @@ import cyborgLogo from "../image/Cyborg.png"
 import
 {
     Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink, Frame, Text1,
-    Text2, Text3, LightText, Paragraph1, Paragraph2, Paragraph3
+    Text2, Text3, LightText, Paragraph1, Paragraph2, Paragraph3,
 } from "./Page";
 
 const Index = () =>{
