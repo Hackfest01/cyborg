@@ -77,7 +77,6 @@ export const NavBtnLink = styled(Link)`
 
 export const Frame = styled.h1`
   color: #111111;
-  font-family: 'Poppins', sans-serif;
   font-weight: bolder;
   margin-top: 100px;
   font-size: 65.2878px;
@@ -97,7 +96,6 @@ export const Text3 = styled.p`
 `
 
 export const LightText = styled.p`
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   color: rgba(17, 17, 17, 0.6);
@@ -112,7 +110,6 @@ export const Paragraph1 = styled.p`
 
 export const Paragraph2 = styled.p`
   margin-top: -15px;
-  
 `
 
 export const Paragraph3 = styled.div`
@@ -122,5 +119,4 @@ export const Paragraph3 = styled.div`
   margin-left: 43%;
   border-radius: 6px;
   cursor: pointer;
-  
 `
