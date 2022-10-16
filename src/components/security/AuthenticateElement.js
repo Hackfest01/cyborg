@@ -1,6 +1,5 @@
 import styled from "styled-components"
 
-
 export const Body = styled.section`
   width: 100%;
   position: static;

@@ -8,6 +8,7 @@ const App = () => {
     return(
         <Router>
             <Routes>
+            <Route  exact path='/' element={<Index />} />
             <Route  exact path='/home' element={<Index />} />
             <Route  exact path='/overview' element={<OverView />} />
             <Route  exact path='/sign_up' element={< SignUp />} />
