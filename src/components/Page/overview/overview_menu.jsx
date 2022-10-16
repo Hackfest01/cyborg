@@ -26,15 +26,15 @@ export const OverViewMenu = () =>
                 </div>
 
                 <div className='col-sm-2'>
-                    <div class="dropdown show">
-                        <a class="btn btn-default dropdown-toggle" href="/" role="button" id="dropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <div className="dropdown show">
+                        <a className="btn btn-default dropdown-toggle" href="/" role="button" id="dropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Last 7 days
                         </a>
 
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink2">
-                            <a class="dropdown-item" href="/">Action</a>
-                            <a class="dropdown-item" href="/">Another action</a>
-                            <a class="dropdown-item" href="/">Something else here</a>
+                        <div className="dropdown-menu" aria-labelledby="dropdownMenuLink2">
+                            <a className="dropdown-item" href="/">Action</a>
+                            <a className="dropdown-item" href="/">Another action</a>
+                            <a className="dropdown-item" href="/">Something else here</a>
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@ export const SignUpForm = () =>
 {
     return (
         <div className="container-fluid">
-            <div class="row align-items-center justify-content-center my-5 my-sm-0 py-5 py-sm-0">
+            <div className="row align-items-center justify-content-center my-5 my-sm-0 py-5 py-sm-0">
                 <div className="col-sm-9">
                     <div className="">
                         <p className="font-weight-bolder">Create your free account here</p>

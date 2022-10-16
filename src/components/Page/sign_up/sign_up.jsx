@@ -7,7 +7,7 @@ export const SignUp = () =>
 {
     return (
         <div className="container-fluid">
-            <div class="row align-items-center justify-content-center ">
+            <div className="row align-items-center justify-content-center ">
                 <div className="col-sm-4 d-flex justify-content-around  text-center
                  cyborg_side view_height_100" >
                    <Link to='/home' className="pt-5 mt-5"> 
