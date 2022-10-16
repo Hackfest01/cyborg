@@ -8,16 +8,16 @@ export const SignUpForm = () =>
                         <p className="font-weight-bolder">Create your free account here</p>
                     </div>
                     <div className="mb-4">
-                        <input type={'text'} id='emailInputName' className="form-control" placeholder="First and Last Name"></input>
+                        <input type={'text'} id='' className="form-control" placeholder="First and Last Name"></input>
                     </div>
                     <div  className="mb-4">
-                        <input type={'text'} id='emailInputName' className="form-control" placeholder="Your business name"></input>
+                        <input type={'text'} id='' className="form-control" placeholder="Your business name"></input>
                     </div>
                     <div  className="mb-4">
-                        <input type={'text'} id='emailInputName' className="form-control" placeholder="Your business email"></input>
+                        <input type={'email'} id='' className="form-control" placeholder="Your business email"></input>
                     </div>
                     <div  className="mb-4">
-                        <input type={'text'} id='emailInputName' className="form-control" placeholder="Country"></input>
+                        <input type={'text'} id='' className="form-control" placeholder="Country"></input>
                     </div>
                     <div  className="mb-4">
                         <button className="btn withdraw_button w-100">Create Account</button>
