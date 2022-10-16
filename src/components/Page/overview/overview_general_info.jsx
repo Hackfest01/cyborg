@@ -2,7 +2,7 @@ import React from 'react';
 
 export const OverViewGeneralInfo = () =>
 {
-    return <div class="container-fluid">
+    return <div className="container-fluid">
         <div className='row align-items-center justify-items-center border_grey'>
             <div className='col-sm-12 px-5 my-3'>
                 <p className=' mb-0'>Company Name</p>

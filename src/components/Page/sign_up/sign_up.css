@@ -1,0 +1,24 @@
+.overview_nav{
+    background: #1A2E35;
+}
+
+.view_height_100{
+    height: 100vh
+
+
+}
+
+.withdraw_button{
+    color: #111111;
+    background: #5AE4A8;
+border: 1px solid rgba(17, 17, 17, 0.2);
+
+}
+
+.border_grey {
+    border: 1px solid rgba(17, 17, 17, 0.22);
+}
+
+.cyborg_side{
+    background: #1A2E35;
+}
