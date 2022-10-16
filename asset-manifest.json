@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cyborg/static/css/main.1ab15052.css",
-    "main.js": "/cyborg/static/js/main.3beda022.js",
+    "main.js": "/cyborg/static/js/main.f527c4e4.js",
     "index.html": "/cyborg/index.html",
     "main.1ab15052.css.map": "/cyborg/static/css/main.1ab15052.css.map",
-    "main.3beda022.js.map": "/cyborg/static/js/main.3beda022.js.map"
+    "main.f527c4e4.js.map": "/cyborg/static/js/main.f527c4e4.js.map"
   },
   "entrypoints": [
     "static/css/main.1ab15052.css",
-    "static/js/main.3beda022.js"
+    "static/js/main.f527c4e4.js"
   ]
 }
