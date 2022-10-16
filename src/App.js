@@ -7,10 +7,8 @@ const App = () => {
     return(
         <Router>
             <Routes>
-            {/*<Route  exact path='' element={<Index />} />*/}
             <Route  exact path='/home' element={<Index />} />
             <Route  exact path='/overview' element={<OverView />} />
-
             </Routes>
         </Router>
     )
