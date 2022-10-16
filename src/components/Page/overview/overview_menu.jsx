@@ -10,15 +10,15 @@ export const OverViewMenu = () =>
 
                 </div>
                 <div className='col-sm-1 mb-1'>
-                    <div class="dropdown show border border-secondary" >
-                        <a class="btn btn-default dropdown-toggle" href="/" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <div className="dropdown show border border-secondary" >
+                        <a className="btn btn-default dropdown-toggle" href="/" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             NGN
                         </a>
 
-                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                            <a class="dropdown-item" href="/">Action</a>
-                            <a class="dropdown-item" href="/">Another action</a>
-                            <a class="dropdown-item" href="/">Something else here</a>
+                        <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a className="dropdown-item" href="/">Action</a>
+                            <a className="dropdown-item" href="/">Another action</a>
+                            <a className="dropdown-item" href="/">Something else here</a>
                         </div>
                     </div>
                 </div>
